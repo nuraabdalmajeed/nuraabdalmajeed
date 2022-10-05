@@ -7,7 +7,7 @@
 
 - 👨‍💻 built from scratch [Heallo Care Partner](https://apps.apple.com/us/app/heallo-care-partner/id1615367022)
 
-- 👨‍💻 I have refactored code and implemented new features in [Mercato Store](https://apps.apple.com/us/app/mercato-store/id1578890990)
+- 👨‍💻 I have refactored code, UI and implemented new features in [Mercato Store](https://apps.apple.com/us/app/mercato-store/id1578890990)
 
 - 🤝 I have fixed bugs and implemented new features in [Crepe&Waffle](https://apps.apple.com/eg/app/crepe-waffle/id1456513640)
 
