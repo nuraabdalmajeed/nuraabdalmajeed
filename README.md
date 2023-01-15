@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nura</h1>
 <h3 align="center">iOS developer from Egypt</h3>
 
-- 🔭 I’m currently working on [MIT CV]
+- 🔭 I’m currently working on [MIT CV](https://apps.apple.com/eg/app/mit-cv/id1641685461)
 
 - 🌱 I’m currently learning **MVP**
 
