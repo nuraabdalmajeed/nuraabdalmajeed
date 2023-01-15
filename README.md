@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nura</h1>
 <h3 align="center">iOS developer from Egypt</h3>
 
-- 🔭 I’m currently working on [MIT CV](https://apps.apple.com/eg/app/mit-cv/id1641685461)
+- 🔭 I’m currently learning **SwiftUI with MVVM** 
 
-- 🌱 I’m currently learning **MVP**
+- 👨‍💻 release the Mit CV app  which i built from scratch [MIT CV](https://apps.apple.com/eg/app/mit-cv/id1641685461)
 
 - 👨‍💻 built from scratch [Heallo Care Partner](https://apps.apple.com/us/app/heallo-care-partner/id1615367022)
 
