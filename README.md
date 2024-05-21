@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nura</h1>
 <h3 align="center">iOS developer</h3>
 
+- 👨‍💻 I'm working now with SwiftUI
+  
 - 🔭 I’m currently learning **SwiftUI with MVVM** 
 
 - 👨‍💻 release the Mit CV app  which i built from scratch [MIT CV](https://apps.apple.com/eg/app/mit-cv/id1641685461)
