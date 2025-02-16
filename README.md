@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nura</h1>
-<h3 align="center">iOS developer</h3>
-
-- 👨‍💻 I'm working now with SwiftUI
+<h3 align="center">Senior iOS developer</h3>
   
-- 🔭 I’m currently learning **SwiftUI with MVVM** 
+- 👨‍💻 release fantazy version of the Fanz app  [Fanz](https://apps.apple.com/us/app/fanz-score-match-fantasy/id6444231720)
 
 - 👨‍💻 release the Mit CV app  which i built from scratch [MIT CV](https://apps.apple.com/eg/app/mit-cv/id1641685461)
 
